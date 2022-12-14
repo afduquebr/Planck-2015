@@ -3,3 +3,9 @@
 *.fits
 Code/.ipynb_checkpoints/FWHM-checkpoint.ipynb
 Code/.ipynb_checkpoints/Plots-checkpoint.ipynb
+*checkpoints
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/Planck 2015.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
